@@ -1,1 +1,1 @@
-anything
+anything life is cool
