@@ -1,2 +1,6 @@
 #!/bin/bash
+<<<<<<< HEAD
 echo "${ls}"
+=======
+echo "$(ls)"
+>>>>>>> b944f1a08f2ffeb7c287967b91aacfb27633152b
